@@ -1,5 +1,16 @@
-# Vue 3 + Vite
+<img src="./public/MemStore-White.png" alt="MemStore Logo" width="200"/>
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# [MemStore](https://memstore.vercel.app/)
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+MemStore is an ultimate component inventory management system for makers, engineers, and hobbyists. It allows you to manage your components, track their quantities, and easily find them when you need them. This project is built with Vite, Vue, Boxicons, and Tailwind CSS, it uses Firebase for authentication and Firestore for data storage.
+
+## Features
+- **Component Management**: Add, edit, and delete components with ease.
+- **Inventory Tracking**: Keep track of your components' quantities and statuses.
+- **Search**: Quickly find components using search.
+- **Categories**: Organize components into categories for better management.
+- **Authentication**: Secure your data with user authentication.
+- **Responsive Design**: Use MemStore on any device, from desktop to mobile.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
