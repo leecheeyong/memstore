@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@clerk/clerk-js": "^5.69.2",
+    "@clerk/vue": "^1.8.10",
     "@tailwindcss/vite": "^4.1.11",
     "axios": "^1.10.0",
     "boxicons": "^2.1.4",
