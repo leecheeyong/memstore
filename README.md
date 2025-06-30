@@ -12,5 +12,18 @@ MemStore is an ultimate component inventory management system for makers, engine
 - **Authentication**: Secure your data with user authentication.
 - **Responsive Design**: Use MemStore on any device, from desktop to mobile.
 
+## Roadmap
+- [x] Add component management features
+- [x] Implement inventory tracking
+- [x] Add search functionality
+- [x] Implement categories for components
+- [x] Add user authentication
+- [ ] Implement dark mode
+- [ ] Add export/import functionality
+- [ ] Improve UI/UX
+- [ ] Add more component types
+- [ ] Implement notifications for low stock
+
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
