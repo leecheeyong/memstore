@@ -28,7 +28,7 @@
 
         <div class="text-center">
           <a
-            href="https://github.com/leecheeyong"
+            href="https://github.com/leecheeyong/memstore"
             target="_blank"
             class="inline-flex items-center text-gray-600 hover:text-gray-900 transition-colors duration-200"
           >
@@ -51,7 +51,13 @@
         </a>
       </p>
       <p class="mt-1">
-        Project available as open source under the terms of MIT License
+        Project available as open source under the terms of
+        <a
+          href="https://github.com/leecheeyong/memstore/blob/main/LICENSE"
+          target="_blank"
+          class="text-gray-700 hover:underline"
+          >MIT License</a
+        >
       </p>
     </footer>
   </div>
