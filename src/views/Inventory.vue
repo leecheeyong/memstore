@@ -714,12 +714,12 @@ import {
   onAuthStateChanged,
 } from "firebase/auth";
 const firebaseConfig = {
-  apiKey: "AIzaSyCxrkzrM55MxKS-mljHItOpnv5FCdAzBoE",
+  apiKey: import.meta.env.VITE_API_KEY,
   authDomain: "memstore-41e88.firebaseapp.com",
   projectId: "memstore-41e88",
   storageBucket: "memstore-41e88.firebasestorage.app",
   messagingSenderId: "86609748393",
-  appId: "1:86609748393:web:0be0561337f1a815d964b8",
+  appId: "1:86609748393:web:82d919e586fedf93d964b8"
 };
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
