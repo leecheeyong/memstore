@@ -24,6 +24,8 @@ MemStore is an ultimate component inventory management system for makers, engine
 - [ ] Add more component types
 - [ ] Implement notifications for low stock
 
+## Contributing
+Contributions are welcome! Please [open issues](https://github.com/leecheeyong/memstore/issues) or [pull requests](https://github.com/leecheeyong/memstore/pulls) for improvements and bug fixes.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
