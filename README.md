@@ -1,4 +1,4 @@
-<img src="./public/MemStore-White.png" alt="MemStore Logo" width="200"/>
+<img src="./public/MemStore-White.png" alt="MemStore Logo" width="100"/>
 
 # [MemStore](https://memstore.vercel.app/)
 
