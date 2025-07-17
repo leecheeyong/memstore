@@ -3,10 +3,8 @@
     <template v-if="Component">
       <KeepAlive>
         <Suspense timeout="0">
-          <!-- main content -->
           <component :is="Component"></component>
 
-          <!-- loading state -->
           <template #fallback>
             <div class="flex justify-center items-center h-screen">
               <svg
