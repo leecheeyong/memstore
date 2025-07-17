@@ -719,7 +719,7 @@ const firebaseConfig = {
   projectId: "memstore-41e88",
   storageBucket: "memstore-41e88.firebasestorage.app",
   messagingSenderId: "86609748393",
-  appId: "1:86609748393:web:82d919e586fedf93d964b8"
+  appId: "1:86609748393:web:82d919e586fedf93d964b8",
 };
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
