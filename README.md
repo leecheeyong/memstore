@@ -20,9 +20,9 @@ MemStore is an ultimate component inventory management system for makers, engine
 - [x] Add search functionality
 - [x] Implement categories for components
 - [x] Add user authentication
-- [ ] Implement dark mode
+- [x] Implement dark mode
 - [ ] Add export/import functionality
-- [ ] Improve UI/UX
+- [x] Improve UI/UX
 - [ ] Add more component types
 - [ ] Implement notifications for low stock
 
